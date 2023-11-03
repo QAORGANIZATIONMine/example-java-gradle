@@ -1,4 +1,4 @@
-nnnn# [:] Example Gradle Project...........
+nnnn# [:] Example Gradle Project...........9
 
 An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.cccccrrrrrnnn
 
